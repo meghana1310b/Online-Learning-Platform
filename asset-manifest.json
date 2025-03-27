@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Online-Learning-Platform/static/css/main.fb059f71.css",
+    "main.js": "/Online-Learning-Platform/static/js/main.236e5908.js",
+    "static/js/453.419a5d54.chunk.js": "/Online-Learning-Platform/static/js/453.419a5d54.chunk.js",
+    "index.html": "/Online-Learning-Platform/index.html",
+    "main.fb059f71.css.map": "/Online-Learning-Platform/static/css/main.fb059f71.css.map",
+    "main.236e5908.js.map": "/Online-Learning-Platform/static/js/main.236e5908.js.map",
+    "453.419a5d54.chunk.js.map": "/Online-Learning-Platform/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb059f71.css",
+    "static/js/main.236e5908.js"
+  ]
+}
